@@ -1,0 +1,4 @@
+import math
+side1 = float(input("Enter first side: "))
+side2 = float(input("Enter second side: "))
+print(math.sqrt(side1**2 + side2**2))
